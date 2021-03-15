@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" href="./images/churrasco.jpg">
+    <title>Churrascômetro</title>
+  </head>
+  <body>
+    <header>
+      <h1>CHURRASCÔMETRO</h1>
+      <img src="./images/churrasco.jpg" alt="" >
+    </header>
+
+    <div id="questions">
+      <input id="man" name="man" type="number" placeholder="Nº de Homens" /> <br>
+      <input id="woman" name="woman" type="number" placeholder="Nº de Mulheres" /> <br>
+      <input id="children" name="children" type="number" placeholder="Nº de Crianças" /> <br>
+      <input id="time" name="time" type="number" placeholder="Duração(h)" />
+      <button id="calc" onclick="Modal.open(), calculate()" >Churrascar!</button>
+    </div>
+
+    <div class="modal-overlay">
+      <div class="modal">
+        <button id='close' onclick="Modal.close()" >x</button>
+        <h1>Você precisará de:</h1>
+        <ul>
+            <li></li>
+            <div id = "a"><img src="./images/steak.png" alt=""></div>
+            <li></li>
+            <img src="./images/beer.png" alt="">
+            <li></li>
+            <img src="./images/drink.png" alt="">
+        </ul>
+      </div>
+    </div>
+
+    <footer>
+      <h1>
+        Aplicativo desenvolvido por Sandro Henrique
+      </h1>
+      <a href="https://github.com/sandrohmt">
+        <img src="./images/icons8-github-24.png" alt="" width="48px"> </a> <br>
+        <a href="https://br.freepik.com/vetores/fundo">Fundo vetor criado por vectorpocket - br.freepik.com</a> <br>
+      <a href="https://icons8.com/icon/106564/github">GitHub icon by Icons8</a>
+    </footer>
+    <script src="script.js"></script>
+  </body>
+</html>
