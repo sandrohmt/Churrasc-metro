@@ -1,3 +1,4 @@
+![Churrascômetro - Opera 2021-03-15 21-34-16](https://user-images.githubusercontent.com/78877045/111239284-9b021580-85d7-11eb-974e-1e95b7f6b5d1.gif)
 # Churrascômetro
 
 - Neste website, foi feito um mecanismo que possibilita saber em média, quanto de comida é necessário comprar baseado na quantidade de pessoas e horas de um churrasco.
