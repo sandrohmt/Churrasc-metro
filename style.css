@@ -161,7 +161,7 @@ ul img {
 }
 
 footer {
-    background: white;
+    background: #FF3323;
     color: black;
     width: 100%;
 
@@ -175,7 +175,7 @@ footer h1 {
 footer img {
     margin-right: 2rem;
 
-}
+}s
 
 footer a {
     text-decoration: none;
