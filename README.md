@@ -20,3 +20,12 @@
 
 ## Para desktop:
 
+## Para mobile:
+
+## Para ver o projeto você mesmo: 
+
+https://sandrohmt.github.io/Churrascometro/
+
+## Contato:
+
+@sandrohmt@gmail.com
