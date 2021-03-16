@@ -118,15 +118,19 @@ header img {
 }
 
 .modal {
-    background: var(--blue);
-    color: black;
+    background: #ffa123;
     width: 20rem;
     height: 20rem;
     box-sizing: border-box;
+    
 }
 
 .modal h1 {
     text-align: center;
+}
+
+.modal ul {
+   margin-bottom: 2rem;
 }
 
 #close {
