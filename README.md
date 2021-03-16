@@ -18,5 +18,16 @@
 - CSS
 - Javascript
 
+
 ## Para desktop:
+
+![Churrascômetro - Opera 2021-03-15 21-34-16](https://user-images.githubusercontent.com/78877045/111239284-9b021580-85d7-11eb-974e-1e95b7f6b5d1.gif)
+
+## Para mobile:
+
+![Churrascômetro - Opera 2021-03-15 21-39-26 (1)](https://user-images.githubusercontent.com/78877045/111239513-1794f400-85d8-11eb-9353-99cc15113daa.gif)
+
+## Para ver o projeto você mesmo: 
+
+https://sandrohmt.github.io/Churrascometro/
 
