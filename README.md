@@ -24,6 +24,8 @@
 
 ## Para mobile:
 
+![Churrascômetro - Opera 2021-03-15 21-34-16](https://user-images.githubusercontent.com/78877045/111239284-9b021580-85d7-11eb-974e-1e95b7f6b5d1.gif)
+
 ## Para ver o projeto você mesmo: 
 
 https://sandrohmt.github.io/Churrascometro/
